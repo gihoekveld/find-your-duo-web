@@ -39,3 +39,7 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Acknowledgments
+
+> This project was developed during the Ignite Bootcamp by Rocketseat.
